@@ -1,0 +1,290 @@
+\version "2.18.2"
+
+global = {
+  \key d \major
+  \time 2/2
+}
+
+drum = \drummode {
+  \global
+    \repeat unfold 44{ hiwoodblock2 lowoodblock2 }
+  
+}
+
+soprano={ 
+  \time 2/2
+                \clef "treble"
+                \key d \major
+                R1*3  |
+                a' 2 d'' 4 fis'  |
+                a' 4 gis' g' 2  |
+%% 5
+                g' 4 b' a' g'  |
+                g' 4 fis' fis' 2  |
+                e' 2. e' 4  |
+                fis' 4 fis' g' g'  |
+                g' 2 fis' 4 fis'  |
+%% 10
+                e' 1  |
+                e' 2. a' 4  |
+                a' 4 gis' gis' 2  |
+                e' 4 gis' 2 b' 4  |
+                b' 4 a' a' a'  |
+%% 15
+                d'' 1 -\tenuto  |
+                r4 cis'' b' a'  |
+                a' 2 gis' 4 gis'  |
+                a' 1  |
+                R1*3  |
+                a' 2. a' 4  |
+                a' 4 bes' bes' 2  |
+                bes' 4 d'' c'' bes'  |
+%% 25
+                bes' 4 a' a' 2  |
+                g' 2. g' 4  |
+                g' 4 bes' a' g'  |
+                g' 2 f' 8 e' f' 4  |
+                e' 2 r  |
+%% 30
+                fis' 2. fis' 4  |
+                fis' 4 e' d' g'  |
+                g' 2. g' 4  |
+                g' 4 fis' e' a'  |
+                a' 1 -\tenuto  |
+%% 35
+                r4 g' a' b'  |
+                fis' 2 e' 4. fis' 8  |
+                g' 2 g'  |
+                d'' 1 
+                % warning: overlong bar truncated here |
+                \skip 2 dis'' 2  |
+%% 40
+                e'' 4 b' cis'' d''  |
+                cis'' 4 b' 8 a' d'' 4 g'  |
+                fis' 2 e' 4. e' 8  |
+                d' 1  |
+}
+
+alto={ 
+  \time 2/2
+                \clef "treble"
+                   \key d \major
+                   R1*3  |
+                fis' 2 fis'  |
+                e' 2 e'  |
+%% 5
+                e' 4 g' fis' e'  |
+                e' 4 d' d' 2  |
+                cis' 2. cis' 4  |
+                d' 4 d' e' e'  |
+                e' 2 d' 4 d'  |
+%% 10
+                cis' 1  |
+                e' 2. e' 4  |
+                e' 2 e'  |
+                e' 2. gis' 4  |
+                gis' 4 a' a' 2  |
+%% 15
+                r2 gis'  |
+                a' 2 fis' 4 fis'  |
+                e' 2. e' 4  |
+                e' 1  |
+                R1*3  |
+                e' 2. e' 4  |
+                e' 2 e'  |
+                e' 2. e' 4  |
+%% 25
+                e' 4 f' f' 2  |
+                d' 2. d' 4  |
+                e' 4 f' e' e'  |
+                e' 2 d' 8 cis' d' 4  |
+                cis' 2 r  |
+%% 30
+                d' 2. d' 4  |
+                d' 4 cis' b e'  |
+                e' 2. e' 4  |
+                e' 4 d' cis' fis'  |
+                fis' 1 -\tenuto  |
+%% 35
+                r4 g' fis' e'  |
+                d' 2 cis' 4. cis' 8  |
+                d' 2 r  |
+                r2 fis'  |
+                g' 2 fis'  |
+%% 40
+                e' 1 -\tenuto  |
+                r4 d' 8 cis' d' 4 d'  |
+                d' 2 cis' 4. cis' 8  |
+                d' 1  |
+}
+
+tenor={ 
+  \time 2/2
+                \clef "treble_8"
+                   \key d \major
+                R1*3 |
+                a 2 a  |
+                b 2 b  |
+%% 5
+                a 2 a  |
+                a 2 a  |
+                a 2. a 4  |
+                a 4 a a a  |
+                a 2. a 4  |
+%% 10
+                a 1  |
+                cis' 2. cis' 4  |
+                cis' 4 d' d' 2  |
+                b 2. d' 4  |
+                d' 4 cis' cis' 2  |
+%% 15
+                r2 d'  |
+                e' 2 d' 4 cis'  |
+                b 2. b 4  |
+                cis' 1  |
+                R1*3  |
+                cis' 2. cis' 4  |
+                cis' 2 cis' 4 c'  |
+                c' 4 bes a g  |
+%% 25
+                g 4 a a 2  |
+                b 2. b 4  |
+                cis' 4 d' e' cis'  |
+                cis' 2 d' 4 b  |
+                e 2 r  |
+%% 30
+                R1  |
+                b 2. b 4  |
+                b 4 a g cis'  |
+                cis' 2. cis' 4  |
+                cis' 4 b a d'  |
+%% 35
+                d' 2 d' 4 d'  |
+                a 2. a 4  |
+                g 2 r  |
+                r2 c'  |
+                d' 2 c'  |
+%% 40
+                b 4 d' cis' b  |
+                a 2 a 4 g  |
+                a 2 g 4. g 8  |
+                fis 1  |}
+
+bass={
+   \time 2/2
+                \clef "bass"
+                   \key d \major
+  
+    R1*3  |
+                d 2 d  |
+                d 2 d  |
+%% 5
+                cis 2 cis  |
+                d 2 d  |
+                a, 2. a, 4  |
+                d 4 d cis cis  |
+                d 2. d 4  |
+%% 10
+                a, 1  |
+                a 2. a 4  |
+                a 4 b b 2  |
+                r2 e 4 e  |
+                f 4 fis fis 2  |
+%% 15
+                r2 b,  |
+                cis 2 d 4 d  |
+                e 2. e 4  |
+                a, 1  |
+                R1*3  |
+                a 2. a 4  |
+                a 4 g g 2  |
+                c 2. c 4  |
+%% 25
+                c 4 f f 2  |
+                f 2. f 4  |
+                e 4 d cis a,  |
+                bes, 2 a, 4 gis,  |
+                a, 2 r  |
+%% 30
+                R1  |
+                g 2. g 4  |
+                g 4 fis e a  |
+                a 2. a 4  |
+                a 4 g fis b  |
+%% 35
+                b 2 a 4 gis  |
+                a 2 a,  |
+                b, 2 r  |
+                r2 a  |
+                bes 2 a  |
+%% 40
+                gis 1  |
+                g 2 fis 4 b,  |
+                a, 2. a, 4  |
+                d 1  |
+}
+
+\score {
+
+  <<
+
+#ifdef DRUM
+   \new DrumStaff<< \drum>>
+#endif
+#ifdef SOPRANO
+  \context Staff = sopvoice
+   <<
+                 \set Staff.midiInstrument = "acoustic grand"
+            \set Score.skipBars = ##t
+            \set Staff.printKeyCancellation = ##f
+            \new Voice \global
+
+     %\set Staff.midiInstrument = #"piccolo" 
+     \context Voice = Soprano   {\soprano }
+   >>
+#endif
+#ifdef ALTO
+      \context Staff = altovoice
+   <<
+                 \set Staff.midiInstrument = "acoustic grand"
+            \set Score.skipBars = ##t
+            \set Staff.printKeyCancellation = ##f
+            \new Voice \global
+
+     %\set Staff.midiInstrument = #"piccolo" 
+    
+      \context Voice = Alto   {\alto }
+   >>
+#endif
+#ifdef TENOR
+   \context Staff = tenorvoice
+   <<
+                 \set Staff.midiInstrument = "acoustic grand"
+            \set Score.skipBars = ##t
+            \set Staff.printKeyCancellation = ##f
+            \new Voice \global
+
+     %\set Staff.midiInstrument = #"piccolo" 
+      \context Voice = Tenor   {\tenor }
+   >>
+#endif
+#ifdef BASS
+      \context Staff = bassvoice
+   <<
+                 \set Staff.midiInstrument = "acoustic grand"
+            \set Score.skipBars = ##t
+            \set Staff.printKeyCancellation = ##f
+            \new Voice \global
+
+     %\set Staff.midiInstrument = #"piccolo" 
+      \context Voice = Bass   {\bass }
+   >>
+#endif
+  >>
+  
+ \layout { }  
+  \midi {
+    \tempo 4=100
+  }
+  
+}
