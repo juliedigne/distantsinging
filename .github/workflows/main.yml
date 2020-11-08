@@ -15,7 +15,7 @@ jobs:
         id: compilation
         uses: juliedigne/distsinging_github_action@e502f3fd4ebe515e36854bcec6b1763caa3fa8ca
         with:
-          ly_files: ${{ steps.get_lypp.outputs.files }}
+          lypp_files: ${{ steps.get_lypp.outputs.files }}
       - name: Get the output of compilation
         run: echo "output files ${{ steps.compilation.outputs.mp3s }}"
       - name: Update release
