@@ -10,7 +10,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Get Lypp files
         id: get_lypp
-        run: echo "::set-output name=files::$(find ${{github.workspace}} -name "*/*.lypp" -printf "%P\n" | xargs)"
+        run: echo "::set-output name=files::$(find ${{github.workspace}} -name "*.lypp" -printf "%P\n" | xargs)"
       - name: Compilation step
         id: compilation
         uses: juliedigne/distsinging_github_action@e502f3fd4ebe515e36854bcec6b1763caa3fa8ca
