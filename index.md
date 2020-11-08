@@ -1,7 +1,24 @@
-## Welcome to GitHub Pages
+## Projet "Chanter Confinés" de l'ensemble vocal Arcama
 
-You can use the [editor on GitHub](https://github.com/juliedigne/distantsinging/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Voir le site d'[Arcama](http://evarcama.fr/)
 
+### Mode d'emploi
+S'enregistrer et m'envoyer le résultat.
+
+### Oeuvre en cours
+Ave Verum Corpus. Date limite pour m'envoyer le fichier <b>Samedi 14 Novembre</b>
+
+### A venir (choix possibles)
+
+- Belle qui tiens ma vie (Thoinot Arbeau)
+- Il Carnavale di Venezia (Rossini)
+- If love's a sweet Passion (Purcell)
+- Allelujah (Purcell)
+
+### Oeuvres travaillées
+...
+
+<!--
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -14,6 +31,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+-->
 
 - Bulleted
 - List
