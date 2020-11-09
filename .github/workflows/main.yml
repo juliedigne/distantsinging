@@ -13,7 +13,7 @@ jobs:
         run: echo "::set-output name=files::$(find ${{github.workspace}} -name "*.lypp" -printf "%P\n" | xargs)"
       - name: Compilation step
         id: compilation
-        uses: juliedigne/distsinging_github_action@master
+        uses: juliedigne/distsinging_github_action@175235884b664c72e9fc5ae8ca5a23c3f651b8b1
         with:
           lypp_files: ${{ steps.get_lypp.outputs.files }}
       - name: Get the output of compilation
