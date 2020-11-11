@@ -1,13 +1,13 @@
-## Projet "Chanter Confinés" de l'ensemble vocal Arcama
+# Projet "Chanter Confinés" de l'ensemble vocal Arcama
 
 Pendant le reconfinement, voici un petit projet de chant à distance sur des oeuvres courtes de l'ensemble vocal [Arcama](http://evarcama.fr/)
 
-### Mode d'emploi
+## Mode d'emploi
 S'enregistrer et m'envoyer par mail le résultat.
 
 Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide de sa voix au casque en chantant pour être sûr-e de bien chanter).
 
-### A venir (choix possibles)
+## A venir (choix possibles)
 
 *Toute suggestion est la bienvenue*
 - Belle qui tiens ma vie (Thoinot Arbeau)
@@ -15,7 +15,7 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 - If love's a sweet Passion (Purcell)
 
 
-# Ave Verum Corpus (Mozart - 1791)
+## Ave Verum Corpus (Mozart - 1791)
 
 Voir la page [wikipedia](https://fr.wikipedia.org/wiki/Ave_verum_corpus_(Mozart)).
 
@@ -25,7 +25,7 @@ Prononciation: Latin *à l'italienne*.
 
 Date limite pour m'envoyer les fichiers: _Samedi 14 Novembre_.
 
-Partition: [Ave_verum_corpus.pdf](ave_verum_corus/Ave_verum_corpus.pdf)
+Partition: [Ave_verum_corpus.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/ave_verum_corpus/Ave_verum_corpus.pdf)
 <br/><br/>
 *Fichiers de travail (mp3):*<br/>
 [ave_verum_soprano.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/ave_verum_soprano.mp3)  
