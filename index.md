@@ -27,16 +27,9 @@ Date limite pour m'envoyer les fichiers: _Samedi 14 Novembre_.
 
 Partition: [Ave_verum_corpus.pdf](ave_verum_corus/Ave_verum_corpus.pdf)
 <br/><br/>
-*Fichiers de travail (mp3):*
+*Fichiers de travail (mp3):*<br/>
 [ave_verum_soprano.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/ave_verum_soprano.mp3)  
 [ave_verum_alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/ave_verum_alto.mp3)  
 [ave_verum_tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/ave_verum_tenor.mp3)  
 [ave_verum_bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/ave_verum_bass.mp3)  
-<br/>
-<br/><br/>
-*Fichiers de travail (mp3):*
-[*soprano.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*soprano.mp3)  
-[*alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*alto.mp3)  
-[*tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*tenor.mp3)  
-[*bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*bass.mp3)  
 <br/>
