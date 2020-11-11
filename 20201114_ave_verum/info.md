@@ -8,4 +8,4 @@ Prononciation: Latin *à l'italienne*.
 
 Date limite pour m'envoyer les fichiers: <b>Samedi 14 Novembre</b>.
 
-Partition: [Ave_verum_corpus.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/ave_verum_corpus/Ave_verum_corpus.pdf)
+Partition: [Ave_verum_corpus.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20201114_ave_verum/Ave_verum_corpus.pdf)
