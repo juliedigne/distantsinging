@@ -5,6 +5,8 @@ jobs:
   scores_compilation:
     runs-on: ubuntu-latest
     name: A job to compile scores using lilypond in a docker
+    env:
+      GH_PAT: ${{ secrets.GH_PAT }}
     steps:
       - name: Checkout
         uses: actions/checkout@v2
