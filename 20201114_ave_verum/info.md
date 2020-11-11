@@ -6,6 +6,6 @@ Le tempo est mis à noire = 100. C'est plus rapide que ce qui est normalement pr
 
 Prononciation: Latin *à l'italienne*.
 
-Date limite pour m'envoyer les fichiers: _Samedi 14 Novembre_.
+Date limite pour m'envoyer les fichiers: <b>Samedi 14 Novembre</b>.
 
 Partition: [Ave_verum_corpus.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/ave_verum_corpus/Ave_verum_corpus.pdf)
