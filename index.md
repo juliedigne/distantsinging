@@ -1,19 +1,42 @@
 ## Projet "Chanter Confinés" de l'ensemble vocal Arcama
 
-Voir le site d'[Arcama](http://evarcama.fr/)
+Pendant le reconfinement, voici un petit projet de chant à distance sur des oeuvres courtes de l'ensemble vocal [Arcama](http://evarcama.fr/)
 
 ### Mode d'emploi
-S'enregistrer et m'envoyer le résultat.
+S'enregistrer et m'envoyer par mail le résultat.
 
-### Oeuvre en cours
-Ave Verum Corpus. Date limite pour m'envoyer le fichier **Samedi 14 Novembre**
+Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide de sa voix au casque en chantant pour être sûr-e de bien chanter).
 
 ### A venir (choix possibles)
 
+*Toute suggestion est la bienvenue*
 - Belle qui tiens ma vie (Thoinot Arbeau)
 - Il Carnavale di Venezia (Rossini)
 - If love's a sweet Passion (Purcell)
-- Allelujah (Purcell)
 
-### Oeuvres travaillées
-...
+
+# Ave Verum Corpus (Mozart - 1791)
+
+Voir la page [wikipedia](https://fr.wikipedia.org/wiki/Ave_verum_corpus_(Mozart)).
+
+Le tempo est mis à noire = 100. C'est plus rapide que ce qui est normalement pratiqué, mais c'est aussi plus confortable pour chanter seul.
+
+Prononciation: Latin *à l'italienne*.
+
+Date limite pour m'envoyer les fichiers: _Samedi 14 Novembre_.
+
+Partition: [Ave_verum_corpus.pdf](ave_verum_corus/Ave_verum_corpus.pdf)
+<br/><br/>
+*Fichiers de travail (mp3):*
+[ave_verum_soprano.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/ave_verum_soprano.mp3)  
+[ave_verum_alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/ave_verum_alto.mp3)  
+[ave_verum_tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/ave_verum_tenor.mp3)  
+[ave_verum_bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/ave_verum_bass.mp3)  
+<br/>
+<br/><br/>
+*Fichiers de travail (mp3):*
+[*soprano.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*soprano.mp3)  
+[*alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*alto.mp3)  
+[*tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*tenor.mp3)  
+[*bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*bass.mp3)  
+<br/>
