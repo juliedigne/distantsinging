@@ -1,9 +1,11 @@
+### Table des matières
+
 * TOC
 {:toc}
 
-## Description
+## Courte Description
 
-Pendant le reconfinement, voici un petit projet de chant à distance sur des oeuvres courtes de l'ensemble vocal [Arcama](http://evarcama.fr/)
+Pendant le reconfinement, voici un petit projet de chant à distance sur des oeuvres courtes de l'ensemble vocal [Arcama](http://evarcama.fr/).
 
 ## Mode d'emploi
 
@@ -19,11 +21,13 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 - If love's a sweet Passion (Purcell)
 
 
-## Ave Verum Corpus (Mozart - 1791)
+## Travail En cours: Ave Verum Corpus (Mozart - 1791)
 
-Voir la page [wikipedia](https://fr.wikipedia.org/wiki/Ave_verum_corpus_(Mozart)).
+Voir l'histoire de l'oeuvre sur la page [wikipedia](https://fr.wikipedia.org/wiki/Ave_verum_corpus_(Mozart)).
 
-Le tempo est mis à noire = 100. C'est plus rapide que ce qui est normalement pratiqué, mais c'est aussi plus confortable pour chanter seul.
+Tempo: noire = 100. (C'est plus rapide que ce qui est normalement pratiqué, mais c'est aussi plus confortable pour chanter seul.)
+
+Indication: Il y a 3 mesures de métronome avant l'entrée du choeur. Frapper dans ses mains ou sur la table sur le 3ème battement (1er battement de la deuxième mesure), cela aide pour la synchronisation.
 
 Prononciation: Latin *à l'italienne*.
 
