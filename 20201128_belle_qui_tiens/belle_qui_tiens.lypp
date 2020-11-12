@@ -7,7 +7,7 @@ global = {
 
 drum = \drummode {
   \global
-    \repeat unfold 19{ hiwoodblock2 lowoodblock2 }
+    \repeat unfold 53{ hiwoodblock2 lowoodblock2 }
   
 }
 
@@ -17,6 +17,7 @@ soprano={
                 \key f \major
                 R1  |
                 R1  |
+\repeat unfold 3{
                 R1  |
                 g' 2 g' 4 fis'  |
                 g' 4 a' bes' 2  |
@@ -36,7 +37,7 @@ soprano={
 %% 15
                 g' 4 g' fis' 2  |
                 d' 2 e'8[ f'] g' 4  |
-                g' 4 fis' g' 2 
+                g' 4 fis' g' 2 }
                 \bar "|."
 
         }
@@ -47,6 +48,7 @@ alto={
                 \key f \major
                 R1  |
                 R1  |
+\repeat unfold 3{
                 R1  |
                 d' 2 d' 4 d'  |
                 d' 4 f' f' 2  |
@@ -66,7 +68,7 @@ alto={
 %% 15
                 d' 4 ees' d' 2  |
                 f' 2 e' 4 d'  |
-                d' 4 d' d' 2
+                d' 4 d' d' 2}
 
          }
 
@@ -76,6 +78,7 @@ tenor={
                 \key f \major
                 R1  |
                 R1  |
+\repeat unfold 3{
                 R1  |
                 bes 2 bes 4 a  |
                 bes 4 c' d' 2  |
@@ -95,7 +98,7 @@ tenor={
 %% 15
                 bes 4 c' a 2  |
                 bes 2 g 4 bes  |
-                a 4 a g 2 
+                a 4 a g 2} 
 
           }
 
@@ -105,6 +108,7 @@ bass={
                 \key f \major
                 R1  |
                 R1  |
+\repeat unfold 3{
                 R1  |
                 g 2 g 4 d  |
                 g 4 f bes, 2  |
@@ -124,7 +128,7 @@ bass={
 %% 15
                 g 4 c d 2  |
                 bes, 2 c 4 g,  |
-                d 4 d g, 2
+                d 4 d g, 2}
                }
 
 \score {
