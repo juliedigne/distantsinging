@@ -1,0 +1,193 @@
+\version "2.18.2"
+
+global = {
+  \key f \major
+  \time 2/2
+}
+
+drum = \drummode {
+  \global
+    \repeat unfold 19{ hiwoodblock2 lowoodblock2 }
+  
+}
+
+soprano={ 
+  \time 2/2
+                \clef "treble"
+                \key f \major
+                R1  |
+                R1  |
+                R1  |
+                g' 2 g' 4 fis'  |
+                g' 4 a' bes' 2  |
+                bes' 4 d'' c'' bes'  |
+%% 5
+                bes' 4 a' bes' 2  |
+                g' 2 g' 4 fis'  |
+                g' 4 a' bes' 2  |
+                bes' 4 d'' c'' bes'  |
+                bes' 4 a' bes' 2  |
+%% 10
+                bes' 2 a'4 a'  |
+                g' 4 g' fis' 2  |
+                d' 2 e'8[ f'] g' 4  |
+                g' 4 fis' g' 2  |
+                bes' 2 a'4 a'  |
+%% 15
+                g' 4 g' fis' 2  |
+                d' 2 e'8[ f'] g' 4  |
+                g' 4 fis' g' 2 
+                \bar "|."
+
+        }
+
+alto={ 
+  \time 2/2
+                \clef "treble"
+                \key f \major
+                R1  |
+                R1  |
+                R1  |
+                d' 2 d' 4 d'  |
+                d' 4 f' f' 2  |
+                f' 4 f' e' f'  |
+%% 5
+                g' 4 f' f' 2  |
+                d' 2 d' 4 d'  |
+                d' 4 f' f' 2  |
+                f' 4 f' e' f'  |
+                g' 4 f' f' 2  |
+%% 10
+                f' 2 f' 4 f'  |
+                d' 4 ees' d' 2  |
+                f' 2 c' 4 d'  |
+                d' 4 d' bes 2  |
+                bes 2 f' 4 f'  |
+%% 15
+                d' 4 ees' d' 2  |
+                f' 2 e' 4 d'  |
+                d' 4 d' d' 2
+
+         }
+
+tenor={ 
+  \time 2/2
+            \clef "treble_8"
+                \key f \major
+                R1  |
+                R1  |
+                R1  |
+                bes 2 bes 4 a  |
+                bes 4 c' d' 2  |
+                d' 4 bes g d'  |
+%% 5
+                c' 4 c' d' 2  |
+                bes 2 bes 4 a  |
+                bes 4 c' d' 2  |
+                d' 4 bes g d'  |
+                c' 4 c' d' 2  |
+%% 10
+                d' 2 c' 4 d'  |
+                bes 4 c' a 2  |
+                bes 2 g 4 bes  |
+                a 4 a g 2  |
+                d' 2 c' 4 d'  |
+%% 15
+                bes 4 c' a 2  |
+                bes 2 g 4 bes  |
+                a 4 a g 2 
+
+          }
+
+bass={
+   \time 2/2
+                \clef "bass"
+                \key f \major
+                R1  |
+                R1  |
+                R1  |
+                g 2 g 4 d  |
+                g 4 f bes, 2  |
+                bes, 4 bes, c d  |
+%% 5
+                ees 4 f bes, 2  |
+                g 2 g 4 d  |
+                g 4 f bes, 2  |
+                bes, 4 bes, c d  |
+                ees 4 f bes, 2  |
+%% 10
+                bes 2 f 4 d  |
+                g 4 c d 2  |
+                bes, 2 c 4 g,  |
+                d 4 d g, 2  |
+                bes 2 f 4 d  |
+%% 15
+                g 4 c d 2  |
+                bes, 2 c 4 g,  |
+                d 4 d g, 2
+               }
+
+\score {
+
+  <<
+
+#ifdef DRUM
+   \new DrumStaff<< \drum>>
+#endif
+#ifdef SOPRANO
+  \context Staff = sopvoice
+   <<
+                 \set Staff.midiInstrument = "acoustic grand"
+            \set Score.skipBars = ##t
+            \set Staff.printKeyCancellation = ##f
+            \new Voice \global
+
+     %\set Staff.midiInstrument = #"piccolo" 
+     \context Voice = Soprano   {\soprano }
+   >>
+#endif
+#ifdef ALTO
+      \context Staff = altovoice
+   <<
+                 \set Staff.midiInstrument = "acoustic grand"
+            \set Score.skipBars = ##t
+            \set Staff.printKeyCancellation = ##f
+            \new Voice \global
+
+     %\set Staff.midiInstrument = #"piccolo" 
+    
+      \context Voice = Alto   {\alto }
+   >>
+#endif
+#ifdef TENOR
+   \context Staff = tenorvoice
+   <<
+                 \set Staff.midiInstrument = "acoustic grand"
+            \set Score.skipBars = ##t
+            \set Staff.printKeyCancellation = ##f
+            \new Voice \global
+
+     %\set Staff.midiInstrument = #"piccolo" 
+      \context Voice = Tenor   {\tenor }
+   >>
+#endif
+#ifdef BASS
+      \context Staff = bassvoice
+   <<
+                 \set Staff.midiInstrument = "acoustic grand"
+            \set Score.skipBars = ##t
+            \set Staff.printKeyCancellation = ##f
+            \new Voice \global
+
+     %\set Staff.midiInstrument = #"piccolo" 
+      \context Voice = Bass   {\bass }
+   >>
+#endif
+  >>
+  
+ \layout { }  
+  \midi {
+    \tempo 4=110
+  }
+  
+}
