@@ -1,3 +1,6 @@
+* TOC
+{:toc}
+
 ## Description
 
 Pendant le reconfinement, voici un petit projet de chant à distance sur des oeuvres courtes de l'ensemble vocal [Arcama](http://evarcama.fr/)
@@ -28,7 +31,7 @@ Date limite pour m'envoyer les fichiers: <b>Samedi 14 Novembre</b>.
 
 Partition: [Ave_verum_corpus.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20201114_ave_verum/Ave_verum_corpus.pdf)
 <br/><br/>
-*Fichiers de travail (mp3):*<br/>
+Fichiers de travail (mp3):<br/>
 [ave_verum_soprano.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/ave_verum_soprano.mp3)  
 [ave_verum_alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/ave_verum_alto.mp3)  
 [ave_verum_tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/ave_verum_tenor.mp3)  
