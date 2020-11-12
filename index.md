@@ -21,6 +21,27 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 - If love's a sweet Passion (Purcell)
 
 
+## Belle qui tiens ma vie (1589 - Jean Tabourot)
+
+Voir l’histoire de l’oeuvre sur la page [wikipedia](https://fr.wikipedia.org/wiki/Belle_qui_tiens_ma_vie). 
+
+Tempo: noire = 110
+
+Indication: Il y a 3 mesures de métronome avant l'entrée du choeur, donc 6 battements (battue à la blanche). Frapper dans ses mains ou sur la table sur le 3ème battement (1er battement de la deuxième mesure), cela aide pour la synchronisation.
+
+Prononciation: Français *à l'ancienne*.
+
+Date limite pour m'envoyer les fichiers: <b>Samedi 28 Novembre</b>
+ 
+Partition: [Belle_qui_tiens_ma_vie.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20201128_belle_qui_tiens/Belle_qui_tiens_ma_vie.pdf)
+
+<br/><br/>
+Fichiers de travail (mp3):<br/>
+[belle_qui_tiens_soprano.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/belle_qui_tiens_soprano.mp3)  
+[belle_qui_tiens_alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/belle_qui_tiens_alto.mp3)  
+[belle_qui_tiens_tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/belle_qui_tiens_tenor.mp3)  
+[belle_qui_tiens_bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/belle_qui_tiens_bass.mp3)  
+<br/>
 ## Travail En cours: Ave Verum Corpus (Mozart - 1791)
 
 Voir l'histoire de l'oeuvre sur la page [wikipedia](https://fr.wikipedia.org/wiki/Ave_verum_corpus_(Mozart)).
