@@ -6,7 +6,7 @@ Tempo: noire = 110.
 
 Indication: Il y a 3 mesures de métronome avant l'entrée du choeur, donc 6 battements (battue à la blanche). Frapper dans ses mains ou sur la table sur le 3ème battement (1er battement de la deuxième mesure), cela aide pour la synchronisation.
 
-Texte: Strophes 1 à 3.
+Texte: Strophes 1 à 3. Une mesure (2 battements) sépare chaque strophe). S'arrêter à "Et ont rempli mon coeur / d'une amoureuse ardeur".
 
 Prononciation: Français *à l'ancienne*.
 
