@@ -1,4 +1,4 @@
-### Table des matières
+## Table des matières
 
 * TOC
 {:toc}
