@@ -1,8 +1,10 @@
-## Ave Verum Corpus (Mozart - 1791)
+## Travail En cours: Ave Verum Corpus (Mozart - 1791)
 
-Voir la page [wikipedia](https://fr.wikipedia.org/wiki/Ave_verum_corpus_(Mozart)).
+Voir l'histoire de l'oeuvre sur la page [wikipedia](https://fr.wikipedia.org/wiki/Ave_verum_corpus_(Mozart)).
 
-Le tempo est mis à noire = 100. C'est plus rapide que ce qui est normalement pratiqué, mais c'est aussi plus confortable pour chanter seul.
+Tempo: noire = 100. (C'est plus rapide que ce qui est normalement pratiqué, mais c'est aussi plus confortable pour chanter seul.)
+
+Indication: Il y a 3 mesures de métronome avant l'entrée du choeur. Frapper dans ses mains ou sur la table sur le 3ème battement (1er battement de la deuxième mesure), cela aide pour la synchronisation.
 
 Prononciation: Latin *à l'italienne*.
 

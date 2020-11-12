@@ -1,9 +1,11 @@
+### Table des matières
+
 * TOC
 {:toc}
 
-## Description
+## Courte Description
 
-Pendant le reconfinement, voici un petit projet de chant à distance sur des oeuvres courtes de l'ensemble vocal [Arcama](http://evarcama.fr/)
+Pendant le reconfinement, voici un petit projet de chant à distance sur des oeuvres courtes de l'ensemble vocal [Arcama](http://evarcama.fr/).
 
 ## Mode d'emploi
 
