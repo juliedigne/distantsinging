@@ -16,7 +16,6 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 ## A venir (choix possibles)
 
 *Toute suggestion est la bienvenue.*
-- Belle qui tiens ma vie (Thoinot Arbeau)
 - Il Carnavale di Venezia (Rossini)
 - If love's a sweet Passion (Purcell)
 
