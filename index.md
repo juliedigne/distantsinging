@@ -30,7 +30,7 @@ Indication: Il y a 3 mesures de métronome avant l'entrée du choeur, donc 6 bat
 
 Texte: Strophes 1 à 3. Une mesure (2 battements) sépare chaque strophe). S'arrêter à "Et ont rempli mon coeur / d'une amoureuse ardeur".
 
-Prononciation: Français *à l'ancienne*.
+Prononciation: Français *à l'ancienne*: chanter les consonnes finales à la pause, et donc en particulier à la rime, ne pas prononcer les consonnes finales à l'intérieur des vers devant consonne, mais de les prononcer devant une voyelle (liaison). Par ailleurs, le r est roulé et oi est une diphtongue (oué).
 
 Date limite pour m'envoyer les fichiers: <b>Samedi 28 Novembre</b>.
  
