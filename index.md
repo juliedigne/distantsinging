@@ -20,7 +20,7 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 - If love's a sweet Passion (Purcell)
 
 
-## Prochaine pièce: Belle qui tiens ma vie (1589 - Jean Tabourot)
+## Travail en cours: Belle qui tiens ma vie (1589 - Jean Tabourot)
 
 Voir l’histoire de l’oeuvre sur la page [wikipedia](https://fr.wikipedia.org/wiki/Belle_qui_tiens_ma_vie). 
 
@@ -42,7 +42,7 @@ Fichiers de travail (mp3):<br/>
 [belle_qui_tiens_tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/belle_qui_tiens_tenor.mp3)  
 [belle_qui_tiens_bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/belle_qui_tiens_bass.mp3)  
 <br/>
-## Travail En cours: Ave Verum Corpus (Mozart - 1791)
+##Ave Verum Corpus (Mozart - 1791)
 
 Voir l'histoire de l'oeuvre sur la page [wikipedia](https://fr.wikipedia.org/wiki/Ave_verum_corpus_(Mozart)).
 
