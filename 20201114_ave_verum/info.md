@@ -1,4 +1,4 @@
-## Travail En cours: Ave Verum Corpus (Mozart - 1791)
+##Ave Verum Corpus (Mozart - 1791)
 
 Voir l'histoire de l'oeuvre sur la page [wikipedia](https://fr.wikipedia.org/wiki/Ave_verum_corpus_(Mozart)).
 
