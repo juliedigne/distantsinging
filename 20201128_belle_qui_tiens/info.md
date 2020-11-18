@@ -8,26 +8,26 @@ Indication: Il y a 3 mesures de métronome avant l'entrée du choeur, donc 6 bat
 
 Texte: Strophes 1 à 3. Une mesure (2 battements) sépare chaque strophe (indications de prononciation entre parenthèses): 
 
-Belle qui tiens ma vie 
-Captive dans tes yeux (yeusse), 
-Qui m'as l’âme ravie 
-D'un sourire gracieux, (cieusse) 
-Viens tôt me secourir 
-Ou me faudra mourir.(bis) 
+Belle qui tiens ma vie<br/>
+Captive dans tes yeux (yeusse),<br/>
+Qui m'as l’âme ravie<br/>
+D'un sourire gracieux, (cieusse)<br/>
+Viens tôt me secourir<br/>
+Ou me faudra mourir.(bis)<br/>
 
-Pourquoi fuis-tu mignarde 
-Si je suis près de toi, (toué) 
-Quand tes yeux je regarde 
-Je me perds dedans moi, (moué) 
-Car tes perfections 
-Changent mes actions.(bis) 
+Pourquoi fuis-tu mignarde<br/>
+Si je suis près de toi, (toué)<br/>
+Quand tes yeux je regarde<br/>
+Je me perds dedans moi, (moué)<br/>
+Car tes perfections<br/>
+Changent mes actions.(bis)<br/>
 
-Tes beautés et ta grâce 
-Et tes divins propos (osse) 
-Ont échauffé la glace 
-Qui me gelait les os, (osse) 
-Et ont rempli mon cœur 
-D'une amoureuse ardeur.(bis) 
+Tes beautés et ta grâce<br/>
+Et tes divins propos (osse)<br/>
+Ont échauffé la glace<br/>
+Qui me gelait les os, (osse)<br/>
+Et ont rempli mon cœur<br/>
+D'une amoureuse ardeur.(bis)<br/>
 
 Prononciation: Français *à l'ancienne*: chanter les consonnes finales à la pause, et donc en particulier à la rime, ne pas prononcer les consonnes finales à l'intérieur des vers devant consonne, mais de les prononcer devant une voyelle (liaison). Par ailleurs, le r est roulé et oi est une diphtongue (oué).
 
