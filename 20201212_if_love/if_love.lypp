@@ -1,0 +1,227 @@
+\version "2.18.2"
+
+global = {
+  \key bes \major
+  \time 3/4
+}
+
+drum = \drummode {
+  \global
+    \repeat unfold 26{ hiwoodblock4 lowoodblock4 lowoodblock4}
+  
+}
+
+soprano={ 
+\clef "treble"
+                \key bes \major
+		r4 r4 r4
+		r4 r4
+                d'' 4 c'' 4. d'' 8  |
+                bes' 4 c'' a'  |
+                d'' 4 bes' 4. a' 8  |
+%% 5
+                bes' 8 g' g' 2  |
+                ees'' 8 d'' c'' 4 c''  |
+                d'' 16 ees'' f'' 8 d'' 4 bes'  |
+                d'' 4 d'' ees'' 8. d'' 16  |
+                c'' 4 d'' 2  |
+%% 10
+              
+                d'' 8 c'' b' 4 c''  |
+                d'' 4 ees'' c''  |
+%% 20
+                f'' 4 g' a'  |
+                bes' 4 a' 2  |
+                d'' 8 ees'' ees'' 4 d''  |
+                g'' 4 g'' 8 f'' g'' f''  |
+                ees'' 8 d'' ees'' d'' c'' d''  |
+%% 25
+                c'' 8 bes' bes' 2  |
+                d'' 8. ees'' 16 c'' 4 c''  |
+                c'' 16 d'' ees'' 8 ees'' 4 d''  |
+                d'' 16 e'' f'' 8 f'' 4 e''  |
+                e'' 16 fis'' g'' 8 fis'' 4. e'' 8  |
+%% 30
+                d'' 4 g'' d'' 8 ees''  |
+                f'' 4 d'' bes' 8 c''  |
+                d'' 4 bes' 4. a' 8  |
+                g' 4 g' 2  |
+                r4
+}
+
+alto={ 
+                \clef "treble"
+\key bes \major
+                r4 r r
+                r  r
+                g' 4 d' 4. d' 8  |
+                d' 4 ees' d'  |
+                d' 4 ees' 4. ees' 8  |
+%% 5
+                d' 4 d' 2  |
+                g' 8 g' g' 4 f'  |
+                f' 16 g' a' 8 f' 4 g'  |
+                d' 4 g' 4. g' 8  |
+                a' 4 fis' 2  |
+%% 10
+               
+                fis' 8 fis' g' 4 g'  |
+                g' 4 g' f'  |
+%% 20
+                f' 4 f' ees'  |
+                d' 4 c' 2  |
+                f' 4 bes 8 c' d' 4  |
+                ees' 4 a d'  |
+                g' 4 g' ees' 
+                % warning: overlong bar truncated here |
+%% 25
+                \skip 8 d' 8 d' 2  |
+                f' 8. f' 16 f' 4 f'  |
+                f' 4 f' g'  |
+                g' 4 g' a'  |
+                a' 4 a' 2  |
+%% 30
+                a' 8 a' bes' 4 bes'  |
+                a' 4 a' g'  |
+                g' 4 g' 4. g' 8  |
+                g' 8 fis' g' 2  |
+                r4
+}
+
+tenor={ 
+\clef "treble_8"
+                \key bes \major
+                r4 r r
+                r  r 
+                bes 4 a 4. bes 8  |
+                g 4 a fis  |
+                g 4 g 4. g 8  |
+%% 5
+                fis 4 g 2  |
+                bes 8 bes c' 4 c'  |
+                c' 4 d' d'  |
+                bes 4 bes 4. bes 8  |
+                ees' 4 a 2  |
+%% 10
+                d' 8 d' ees' d' c' 4  |
+                b 4 c' a  |
+%% 20
+                bes 4 bes c'  |
+                f 4 f 2  |
+                a 4 g a 8 bes  |
+                c' 4 c' bes  |
+                bes 4 bes a 
+                % warning: overlong bar truncated here |
+%% 25
+                \skip 8 bes 8 bes 2  |
+                bes 8. bes 16 c' 4 c'  |
+                c' 4 c' bes  |
+                d' 4 d' c' 8 d'  |
+                e' 4 d' 2  |
+%% 30
+                d' 8 d' d' 4 bes  |
+                c' 4 d' d'  |
+                d' 4 d' 4. d' 8  |
+                d' 4 d' 2  |
+                r4
+}
+
+bass={
+\clef "bass"
+                \key bes \major
+                r4 r r
+                r  r
+                g 4 g fis  |
+                g 4 c d  |
+                bes, 4 ees 4. c 8  |
+%% 5
+                d 4 g, 2  |
+                g 8 g a 4 a  |
+                f 4 bes bes 8 a  |
+                g 8 f ees 4. f 8  |
+                ees 4 d 2  |
+%% 10
+               
+                d 8 d g f ees 4  |
+                d 4 c f  |
+%% 20
+                d 4 ees 8 d c 4  |
+                bes, 4 f 2  |
+                f 4 g f  |
+                ees 4 d bes,  |
+                ees 4 c f  |
+%% 25
+                f, 4 bes, 2  |
+                bes 8. bes 16 bes 4 bes  |
+                a 4 bes bes  |
+                b 4 c' c'  |
+                fis' 4 d' 4. c' 8  |
+%% 30
+                bes 8 a g 4 g  |
+                a 4 bes bes  |
+                c' 4 d' 4. d' 8  |
+                d 4 g 2  |
+                r4
+}
+
+\score {
+
+  <<
+
+#ifdef DRUM
+   \new DrumStaff<< \drum>>
+#endif
+#ifdef SOPRANO
+  \context Staff = sopvoice
+   <<
+                 \set Staff.midiInstrument = "acoustic grand"
+            \set Score.skipBars = ##t
+            \set Staff.printKeyCancellation = ##f
+            \new Voice \global
+
+     \context Voice = Soprano   {\soprano }
+   >>
+#endif
+#ifdef ALTO
+      \context Staff = altovoice
+   <<
+                 \set Staff.midiInstrument = "acoustic grand"
+            \set Score.skipBars = ##t
+            \set Staff.printKeyCancellation = ##f
+            \new Voice \global
+
+    
+      \context Voice = Alto   {\alto }
+   >>
+#endif
+#ifdef TENOR
+   \context Staff = tenorvoice
+   <<
+                 \set Staff.midiInstrument = "acoustic grand"
+            \set Score.skipBars = ##t
+            \set Staff.printKeyCancellation = ##f
+            \new Voice \global
+
+      \context Voice = Tenor   {\tenor }
+   >>
+#endif
+#ifdef BASS
+      \context Staff = bassvoice
+   <<
+                 \set Staff.midiInstrument = "acoustic grand"
+            \set Score.skipBars = ##t
+            \set Staff.printKeyCancellation = ##f
+            \new Voice \global
+
+     %\set Staff.midiInstrument = #"piccolo" 
+      \context Voice = Bass   {\bass }
+   >>
+#endif
+  >>
+  
+ \layout { }  
+  \midi {
+    \tempo 4=96
+  }
+  
+}
