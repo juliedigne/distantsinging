@@ -1,5 +1,3 @@
-## Table des matières
-
 * TOC
 {:toc}
 
@@ -11,13 +9,12 @@ Pendant le reconfinement, voici un petit projet de chant à distance sur des oeu
 
 S'enregistrer et m'envoyer par mail le résultat (adresse perso gmail).
 
-Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide de sa voix au casque en chantant pour être sûr-e de bien chanter).
+Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide de sa voix au casque en chantant pour être sûr-e de bien respecter les temps).
 
-## A venir (choix possibles)
+## Liste de suggestions à débattre pour les futures pièces
 
 *Toute suggestion est la bienvenue.*
 - Il Carnavale di Venezia (Rossini)
-- If love's a sweet Passion (Purcell)
 
 
 ## Prochaine pièce: If love's a sweet passion (1692 - Henry Purcell)
