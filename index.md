@@ -25,6 +25,15 @@ Tempo: noire = 96.
 
 Indication: Il y a 2 mesures de métronome avant l'entrée du choeur, Frapper dans ses mains ou sur la table sur le 4ème battement. (C'est un rythme ternaire (3/4). Attention le départ se fait sur le 3ème temps de la 2ème mesure (*anacrouse*), soit le 6ème battement.
 
+Texte: Ne chanter que *le premier couplet*:
+
+If love's a sweet passion why does it torment?<br/>
+If a bitter, oh tell me, whence comes my content?<br/>
+Since I suffer with pleasure, why should I complain,<br/>
+or grieve at my fate, when I know it's in vain?<br/>
+Yet so pleasing the pain is so soft as the dart,<br/>
+That at once it both wounds me and tickles my heart<br/>
+
 Prononciation: Anglais *à l'ancienne*
  
 Date limite pour m'envoyer les fichiers: <b>Samedi 12 Décembre 2020</b>.
