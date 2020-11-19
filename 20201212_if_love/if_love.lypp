@@ -1,7 +1,6 @@
 \version "2.18.2"
 
 global = {
-  \key bes \major
   \time 3/4
 }
 
@@ -13,6 +12,7 @@ drum = \drummode {
 
 soprano={ 
 \clef "treble"
+\transpose e ees {
                 \key bes \major
 		r4 r4 r4
 		r4 r4
@@ -46,11 +46,12 @@ soprano={
                 f'' 4 d'' bes' 8 c''  |
                 d'' 4 bes' 4. a' 8  |
                 g' 4 g' 2  |
-                r4
+                r4}
 }
 
 alto={ 
                 \clef "treble"
+\transpose e ees {
 \key bes \major
                 r4 r r
                 r  r
@@ -85,11 +86,12 @@ alto={
                 a' 4 a' g'  |
                 g' 4 g' 4. g' 8  |
                 g' 8 fis' g' 2  |
-                r4
+                r4}
 }
 
 tenor={ 
 \clef "treble_8"
+\transpose e ees {
                 \key bes \major
                 r4 r r
                 r  r 
@@ -123,11 +125,12 @@ tenor={
                 c' 4 d' d'  |
                 d' 4 d' 4. d' 8  |
                 d' 4 d' 2  |
-                r4
+                r4}
 }
 
 bass={
 \clef "bass"
+\transpose e ees {
                 \key bes \major
                 r4 r r
                 r  r
@@ -161,7 +164,7 @@ bass={
                 a 4 bes bes  |
                 c' 4 d' 4. d' 8  |
                 d 4 g 2  |
-                r4
+                r4}
 }
 
 \score {
