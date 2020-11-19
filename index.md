@@ -20,6 +20,26 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 - If love's a sweet Passion (Purcell)
 
 
+## Prochaine pièce: If love's a sweet passion (1692 - Henry Purcell)
+
+Voir l’histoire de l’oeuvre sur la page [wikipedia](https://fr.wikipedia.org/wiki/The_Fairy_Queen). 
+
+Tempo: noire = 96.
+
+Indication: Il y a 2 mesures de métronome avant l'entrée du choeur, Frapper dans ses mains ou sur la table sur le 4ème battement. (C'est un rythme ternaire (3/4). Attention le départ se fait sur le 3ème temps de la 2ème mesure (*anacrouse*), soit le 6ème battement.
+
+Prononciation: Anglais *à l'ancienne*
+ 
+Date limite pour m'envoyer les fichiers: <b>Samedi 12 Décembre 2020</b>.
+ 
+Partition: [If_love_partition.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20201212_if_love/If_love_partition.pdf)
+<br/><br/>
+Fichiers de travail (mp3):<br/>
+[if_love_soprano.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/if_love_soprano.mp3)  
+[if_love_alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/if_love_alto.mp3)  
+[if_love_tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/if_love_tenor.mp3)  
+[if_love_bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/if_love_bass.mp3)  
+<br/>
 ## Travail en cours: Belle qui tiens ma vie (1589 - Jean Tabourot)
 
 Voir l’histoire de l’oeuvre sur la page [wikipedia](https://fr.wikipedia.org/wiki/Belle_qui_tiens_ma_vie). 
