@@ -63,7 +63,7 @@ D'un sourire gracieux, (cieusse)<br/>
 Viens tôt me secourir<br/>
 Ou me faudra mourir.(bis)<br/>
 
-Pourquoi fuis-tu mignarde<br/>
+Pourquoi(Pourquoué) fuis-tu mignarde<br/>
 Si je suis près de toi, (toué)<br/>
 Quand tes yeux je regarde<br/>
 Je me perds dedans moi, (moué)<br/>
