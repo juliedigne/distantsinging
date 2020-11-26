@@ -67,8 +67,8 @@ Pourquoi(Pourquoué) fuis-tu mignarde<br/>
 Si je suis près de toi, (toué)<br/>
 Quand tes yeux je regarde<br/>
 Je me perds dedans moi, (moué)<br/>
-Car tes perfections<br/>
-Changent mes actions.(bis)<br/>
+Car tes perfections(ionss)<br/>
+Changent mes actions (ionss).(bis)<br/>
 
 Tes beautés et ta grâce<br/>
 Et tes divins propos (osse)<br/>
