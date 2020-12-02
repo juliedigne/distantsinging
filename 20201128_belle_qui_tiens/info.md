@@ -1,4 +1,4 @@
-## Travail en cours: Belle qui tiens ma vie (1589 - Jean Tabourot)
+## Belle qui tiens ma vie (1589 - Jean Tabourot)
 
 Voir l’histoire de l’oeuvre sur la page [wikipedia](https://fr.wikipedia.org/wiki/Belle_qui_tiens_ma_vie). 
 
