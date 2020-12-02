@@ -17,13 +17,13 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 - Il Carnavale di Venezia (Rossini)
 
 
-## Prochaine pièce: If love's a sweet passion (1692 - Henry Purcell)
+## Travail en cours: If love's a sweet passion (1692 - Henry Purcell)
 
 Voir l’histoire de l’oeuvre sur la page [wikipedia](https://fr.wikipedia.org/wiki/The_Fairy_Queen). 
 
 Tempo: noire = 96.
 
-Indication: Il y a 2 mesures de métronome avant l'entrée du choeur, Frapper dans ses mains ou sur la table sur le 4ème battement. (C'est un rythme ternaire (3/4). Attention le départ se fait sur le 3ème temps de la 2ème mesure (*anacrouse*), soit le 6ème battement.
+Indication: Il y a 2 mesures de métronome avant l'entrée du choeur, Frapper dans ses mains ou sur la table sur le 4ème battement. C'est un rythme ternaire 3/4 (3 noires par mesure). Attention le départ se fait sur le 3ème temps de la 2ème mesure, soit le 6ème battement.
 
 Texte: Ne chanter que *le premier couplet*:
 
@@ -46,7 +46,7 @@ Fichiers de travail (mp3):<br/>
 [if_love_tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/if_love_tenor.mp3)  
 [if_love_bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/if_love_bass.mp3)  
 <br/>
-## Travail en cours: Belle qui tiens ma vie (1589 - Jean Tabourot)
+## Belle qui tiens ma vie (1589 - Jean Tabourot)
 
 Voir l’histoire de l’oeuvre sur la page [wikipedia](https://fr.wikipedia.org/wiki/Belle_qui_tiens_ma_vie). 
 
