@@ -20,13 +20,6 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 ## Travail en cours: Chant surprise de Noël
 
 Pour clore l'année nous chantons un chant de Noël, pour plus d'informations m'envoyer un mail!
-<br/><br/>
-Fichiers de travail (mp3):<br/>
-[*soprano.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*soprano.mp3)  
-[*alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*alto.mp3)  
-[*tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*tenor.mp3)  
-[*bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*bass.mp3)  
-<br/>
 ## If love's a sweet passion (1692 - Henry Purcell)
 
 Voir l’histoire de l’oeuvre sur la page [wikipedia](https://fr.wikipedia.org/wiki/The_Fairy_Queen). 
