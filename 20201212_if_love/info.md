@@ -20,3 +20,7 @@ Prononciation: Anglais *à l'ancienne*
 Date limite pour m'envoyer les fichiers: <b>Samedi 12 Décembre 2020</b>.
  
 Partition: [If_love_partition.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20201212_if_love/If_love_partition.pdf)
+
+
+<b>*Résultat:*</b> [If_love_resultat.mp3](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20201128_belle_qui_tiens/if_love_arcama_confine.mp3)
+(Montage de Luping Dong)
