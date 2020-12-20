@@ -17,7 +17,17 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 - Il Carnavale di Venezia (Rossini)
 
 
-## Travail en cours: If love's a sweet passion (1692 - Henry Purcell)
+## Travail en cours: Chant surprise de Noël
+
+Pour clore l'année nous chantons un chant de Noël, pour plus d'informations m'envoyer un mail!
+<br/><br/>
+Fichiers de travail (mp3):<br/>
+[*soprano.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*soprano.mp3)  
+[*alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*alto.mp3)  
+[*tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*tenor.mp3)  
+[*bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*bass.mp3)  
+<br/>
+## If love's a sweet passion (1692 - Henry Purcell)
 
 Voir l’histoire de l’oeuvre sur la page [wikipedia](https://fr.wikipedia.org/wiki/The_Fairy_Queen). 
 
@@ -39,6 +49,10 @@ Prononciation: Anglais *à l'ancienne*
 Date limite pour m'envoyer les fichiers: <b>Samedi 12 Décembre 2020</b>.
  
 Partition: [If_love_partition.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20201212_if_love/If_love_partition.pdf)
+
+
+<b>*Résultat:*</b> [If_love_resultat.mp3](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20201128_belle_qui_tiens/if_love_arcama_confine.mp3)
+(Montage de Luping Dong)
 <br/><br/>
 Fichiers de travail (mp3):<br/>
 [if_love_soprano.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/if_love_soprano.mp3)  
@@ -83,7 +97,7 @@ Date limite pour m'envoyer les fichiers: <b>Samedi 28 Novembre</b>.
  
 Partition: [Belle_qui_tiens_ma_vie.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20201128_belle_qui_tiens/Belle_qui_tiens_ma_vie.pdf)
 
-*Résultat:* [Belle_resultat.mp3](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20201128_belle_qui_tiens/belle_qui_tiens_ma_vie_arcama_confine.mp3)
+<b>*Résultat:*</b> [Belle_resultat.mp3](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20201128_belle_qui_tiens/belle_qui_tiens_ma_vie_arcama_confine.mp3)
 <br/><br/>
 Fichiers de travail (mp3):<br/>
 [belle_qui_tiens_soprano.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/belle_qui_tiens_soprano.mp3)  
