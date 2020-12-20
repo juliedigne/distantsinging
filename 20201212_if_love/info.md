@@ -1,4 +1,4 @@
-## Travail en cours: If love's a sweet passion (1692 - Henry Purcell)
+## If love's a sweet passion (1692 - Henry Purcell)
 
 Voir l’histoire de l’oeuvre sur la page [wikipedia](https://fr.wikipedia.org/wiki/The_Fairy_Queen). 
 
