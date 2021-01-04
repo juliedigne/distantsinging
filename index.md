@@ -54,7 +54,7 @@ Prononciation (en attente de confirmation par Catherine): Français *à l'ancien
 
 Date limite pour m'envoyer les fichiers: <b>Samedi 25 Janvier 2021</b>.
  
-Partition: [Belle_qui_tiens_ma_vie.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210125_il_me_semble/il_me_semble_partition.pdf)
+Partition: [il_me_semble_partition.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210125_il_me_semble/il_me_semble_partition.pdf)
 
 <!--<b>*Résultat:*</b> [Belle_resultat.mp3](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20201128_belle_qui_tiens/belle_qui_tiens_ma_vie_arcama_confine.mp3)-->
 <br/><br/>
