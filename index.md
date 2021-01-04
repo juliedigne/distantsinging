@@ -17,7 +17,7 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 - Il Carnavale di Venezia (Rossini)
 
 
-## Travail en cours: Chant surprise de Noël
+## Chant surprise de Noël
 
 Pour clore l'année nous chantons un chant de Noël, pour plus d'informations m'envoyer un mail!
 ## If love's a sweet passion (1692 - Henry Purcell)
