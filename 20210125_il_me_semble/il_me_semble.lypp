@@ -396,7 +396,7 @@ g 2 e 4 a  |
   
  \layout { }  
   \midi {
-    \tempo 4=110
+    \tempo 4=96
   }
   
 }
