@@ -344,7 +344,10 @@ g 2 e 4 a  |
   <<
 
 #ifdef DRUM
-   \new DrumStaff<< \drum>>
+   \new DrumStaff<< \drum
+     \set Staff.midiMinimumVolume = #0.4
+     \set Staff.midiMaximumVolume = #0.4
+>>
 #endif
 #ifdef SOPRANO
   \context Staff = sopvoice
