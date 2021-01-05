@@ -21,7 +21,7 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 
 En savoir plus sur Claude Goudimel sur la page [wikipedia](https://fr.wikipedia.org/wiki/Claude_Goudimel). 
 
-Tempo: noire = 110.
+Tempo: noire = 96.
 
 Indications:
 - Il y a 1 mesure de métronome avant l'entrée du choeur, donc 4 battements (battue à la noire). Frapper dans ses mains ou sur la table sur le 3ème battement, cela aide pour la synchronisation.
@@ -38,10 +38,10 @@ Vissè-je tout je ne vois rien.<br/>
 
 Or, j'aime bien, je le confesse,<br/>
 Et plus j'irai vers la vieillesse,<br/>
-Et, plus constant, j'aimerai mieux (mieusse);<br/>
+Et, plus constant, j'aimerai mieux;<br/>
 Je n'oublierai, fussè-je en cendre,<br/>
 La douce amour de ma Cassandre,<br/>
-Qui loge mon coeur dans ses yeux (yeusses).<br/>
+Qui loge mon coeur dans ses yeux.<br/>
 
 Chanson, va t'en où je t'adresse,<br/>
 Vers la chambre de ma maîtresse;<br/>
@@ -50,7 +50,7 @@ Que pour en santé me remettre,<br/>
 Il ne lui faut, sinon permettre,<br/>
 Que tu te caches dans son sein.<br/>
 
-Prononciation (en attente de confirmation par Catherine): Français *à l'ancienne*: chanter les consonnes finales à la pause, et donc en particulier à la rime, ne pas prononcer les consonnes finales à l'intérieur des vers devant consonne, mais de les prononcer devant une voyelle (liaison). Par ailleurs, le r est roulé et oi est une diphtongue (oué).
+Prononciation: Français *moderne* en roulant légèrement les r si possible.
 
 Date limite pour m'envoyer les fichiers: <b>Samedi 25 Janvier 2021</b>.
  
