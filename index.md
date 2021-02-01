@@ -36,6 +36,8 @@ Canticorum jubilo, Regi Magno psallite.<br/>
 Jam resultent musica, unda tellus, sidera.<br/>
 Canticorum jubilo, Regi Magno psallite.<br/>
 
+Prononciation: Latin *à l'italienne*.
+
 Date limite pour m'envoyer les fichiers: <b>Samedi 13 Février 2021</b>.
  
 Partition: [Canticorum_iubilo_Handel.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210213_canticorum_jubilo/Canticorum_iubilo_Handel.pdf)
