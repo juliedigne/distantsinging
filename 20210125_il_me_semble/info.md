@@ -1,4 +1,4 @@
-## Travail en cours: Il me semble que la journée (1550 - Claude Goudimel)
+## Il me semble que la journée (1550 - Claude Goudimel)
 
 En savoir plus sur Claude Goudimel sur la page [wikipedia](https://fr.wikipedia.org/wiki/Claude_Goudimel). 
 
