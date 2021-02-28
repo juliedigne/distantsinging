@@ -31,13 +31,9 @@ Indications:
 
 Prononciation: Italien moderne.
 
-Pour se mettre dans l'ambiance: La difficulté dans ce choeur réside dans le tempo, il ne faut notamment pas cofondre triolets et croche pointée double. Riccardo Muti le dit bien mieux:
+Pour se mettre dans l'ambiance: La difficulté dans ce choeur réside dans le tempo, il ne faut notamment pas confondre triolets et croche pointée double. Riccardo Muti le dit bien mieux:
 
-<center>
-[![Video](https://img.youtube.com/vi/tPANwyaSlX4/0.jpg)](https://www.youtube.com/watch?v=tPANwyaSlX4 "Va pensiero")
-</center>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPANwyaSlX4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Date limite pour m'envoyer les fichiers: <b>Samedi 20 Mars 2021</b>.
 
