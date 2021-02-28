@@ -1,0 +1,280 @@
+\version "2.18.2"
+
+global = {
+  \time 4/4
+  \key fis \major
+}
+
+drum = \drummode {
+  \global
+    \repeat unfold 38{ hiwoodblock4 lowoodblock4 lowoodblock4 lowoodblock4}
+  
+}
+
+fragmentA = \relative c'' {
+  r1|
+  r1|
+  r2 r4 ais8.\p[gis16]|
+  fis4 cis8[ r16 cis'16] cis4 ais8.[fis16]|
+  \tuplet 3/2 {fis8 (eis gis)} b4 r4 cis,8.[ cis16] |
+  cis4 fis8.[ais16] ais8.([gis16]) ais8.[gis16]|
+  fis4 eis r4 ais8.[gis16]|
+  fis4 cis8.[cis'16] cis4 ais8.[fis16]|
+  
+  \tuplet 3/2 {fis8( eis gis)} b4 r4 cis,8.[cis16]|
+  \tuplet 3/2 {cis8(fis ais)} \tuplet 3/2 {cis(b) gis} fis4 \tuplet3/2{eis8(ais) gis}| 
+  fis2 r4 ais8.[ais16]|
+  gis4 \tuplet 3/2 {bis8(ais) gis} fis4 \tuplet 3/2 {ais8(gis) fis}|
+  
+  eis8.([fis16]) gis4 r4 ais8.[bis16]|
+  cis4^> bis8.[ ais16] \tuplet 3/2 {ais8([gis fisis])} \tuplet 3/2 {ais8[ gis fis]}|
+  
+  eis8.([dis16]) cis2\<( ais'8.\!^>)[gis16]|
+  fis4 cis8.[cis'16] cis4^> ais8.[fis16]|
+  \tuplet 3/2 {fis8([eis gis])} b4 r4 cis,8.[cis16]|
+  \tuplet 3/2 {cis8([fis ais])} \tuplet 3/2 {cis8([b) gis]} fis4 \tuplet 3/2 {eis8([ais) gis]}|
+  fis2 r4 cis'8.[cis16]|
+}
+
+fragmentB=\relative c''{  fis,4 cis8.[cis'16] cis4 ais8.[fis16]
+  \tuplet3/2{fis8([eis gis])} b4 r4 cis,8.[cis16]|
+  \tuplet3/2{cis8([fis ais])} \tuplet3/2{cis8([b) gis]} fis4 \tuplet3/2{eis8([ais) gis]}|
+  fis8 r8 ais8.\<[ais16] ais4 ais8.[ais16]|
+  dis2(~ \tuplet3/2{dis8\![cis\> b]}) \tuplet3/2{ais([b) gis]}|
+  fis8\! r8 ais8.\<[ais16] ais4 ais8.[ais16]|
+  dis2(~ \tuplet3/2{dis8\![cis\> b]}) \tuplet3/2{ais([b) gis]}|
+  }
+
+soprano=\relative c''{ 
+\clef "treble"
+  \fragmentA
+  eis4^>\ff eis8.^>[eis16^>] eis4^> \tuplet 3/2 {eis8^> dis^> cis^>}| %ici tenor ligne 2 et soprano ligne 1
+  bis4^> \tuplet3/2{ais8^>[bis^> cis^>]} gis4 \tuplet3/2{r8 gis\pp [gis]}|
+  fis8 r8 fis8[ r16 fis16] fis8 r8 fis8[ r16 fis16]|
+  
+  ais4 gis4 r4 gis8.[gis16] |
+  eis'4^>\ff eis8.^>[eis16^>] eis4^> \tuplet 3/2 {eis8^> dis^> cis^>}| %ici tenor ligne 2 et soprano ligne 1
+  bis4^> \tuplet3/2{ais8^>[bis^> cis^>]} gis4 \tuplet3/2{r8 gis^>\p [gis^>]}|
+  fis8 r8 fis8[ r16 fis16] fis8 r8 \tuplet 3/2{fis8([ ais) gis]}||
+  eis2 r4 cis8.[cis16]|
+  b'4 b8.[b16] a4 a8.[a16]|
+  gis2 cis,8 r8 cis8.[cis16]|
+  b'4 b8.[b16] a4 a8.[a16]|
+  
+  gis4 cis,2 ais'8.^>[gis16]|
+  \fragmentB
+fis8\! r8 ais8.\pp[ais16] ais4 ais8.[ais16]|
+  ais1~|
+  ais4 r4 r2 |
+  
+}
+
+alto={ 
+  \clef "treble"
+\fragmentA
+\relative c''{
+  gis4\ff^> gis8.^>[gis16^>] gis4^> gis8.^>[gis16^>]|
+  gis4^> \tuplet3/2{fis8^>[gis^> ais^>]} eis4^> \tuplet3/2{r8 cis8\pp[ cis]}|
+  bis8 r8 bis8[ r16 bis16] bis8 r8 bis8[ r16 bis16]|
+  cis4^> cis4 r4 gis'8.[gis16]
+  gis4\ff^> gis8.^>[gis16^>] gis4^> gis8.^>[gis16^>]|
+  gis4^> \tuplet3/2{fis8^>[gis^> ais^>]} eis4^> \tuplet3/2{r8 cis8\p[ cis]}|
+  bis8 r8 bis8[ r16 bis16] bis8 r8 bis8[ r16 bis16]|
+  cis2 r4 cis8.[cis16]|
+  cis4 cis8.[cis16] cis4 cis8.[cis16]|
+  cis2 cis8 r8 cis8.[cis16]|
+  cis4 cis8.[cis16] cis4 cis8.[cis16]|
+  cis4 cis2 ais'8.^>[gis16]|}
+  \fragmentB
+  \relative c'{
+  fis8\! r8 cis8.\pp[cis16] cis4 cis8.[cis16]|
+  cis1~|
+  cis4 r4 r2|
+  }
+}
+
+tenor={ 
+\clef "treble_8"
+\transpose c c,{\fragmentA}
+\relative c'{
+  cis4^>\ff cis8.^>[cis16^>] cis4^> \tuplet 3/2 {cis8^> bis^> ais^>}| %ici tenor ligne 2 et soprano ligne 1
+  gis4^> \tuplet3/2{fis8^>[gis^> ais^>]} eis4 \tuplet3/2{r8 eis\pp [eis]}|
+  dis8 r8 dis8[ r16 dis16] dis8 r8 dis8[ r16 dis16]|
+  
+  fis4^> eis4 r4 gis8.[gis16] |
+  cis4^>\ff cis8.^>[cis16^>] cis4^> \tuplet 3/2 {cis8^> bis^> ais^>}| %ici tenor ligne 2 et soprano ligne 1
+  gis4^> \tuplet3/2{fis8^>[gis^> ais^>]} eis4 \tuplet3/2{r8 eis\p [eis]}|
+  dis8 r8 dis8[ r16 dis16] dis8 r8 dis8[ r16 dis16]|
+  cis2 r4 cis8.[cis16]|
+  gis'4 gis8.[gis16] fis4 fis8.[fis16]|
+  gis2 cis,8 r8 cis8.[cis16]|
+  gis'4 gis8.[gis16]fis4 fis8.[fis16]|
+  
+  eis4 cis2 ais'8.^>[gis16]|
+}
+ \transpose c c,{\fragmentB}
+ fis8\! r8 ais8.\pp[ais16] ais4 ais8.[ais16]|
+ ais1~|
+ ais4 r4 r2|
+}
+
+bass={
+\clef "bass"
+\transpose c c,{\fragmentA}
+\relative c{
+ cis4\ff^> cis8.^>[cis16^>] cis4^> cis8.^>[cis16^>]|
+ gis2^> cis4 \tuplet3/2{r8 cis8\pp[cis]}|
+ gis8 r8  gis8[ r16 gis16] gis8 r8 gis8[r16 gis16]|
+ cis4^> cis r4 gis'8.[gis16]|
+ cis,4^>\ff cis8.^>[cis16^>] cis4^> cis8.^>[cis16^>]|
+ gis2^> cis4 \tuplet3/2{r8 cis8\p[cis]}|
+ gis8 r8 gis8[r16 gis] gis8 r8 gis8[ r16 gis16]|
+ cis2 r4 cis8.[cis16]|
+ cis4 cis8.[cis16] cis4 cis8.[cis16]|
+ cis2 cis8 r8 cis8.[cis16]|
+ cis4 cis8.[cis16] cis4 cis8.[cis16]|
+ cis4 cis2 ais8.^>[gis16]|
+}
+\transpose c c,{\fragmentB}
+\relative c{
+  fis8\! r8 fis8.\pp[fis16] fis4 fis8.[fis16]|
+  fis1~|
+  fis4 r4 r2|
+}
+}
+
+texte = \lyricmode{
+Va, pen -- sie -- ro sul -- l'a -- li do -- ra -- te;
+Va, ti po -- sa sui cli_ -- vi sui col -- li.
+O -- ve_o -- lez -- za -- no te -- pi de_e mol -- li
+L'au -- re dol -- ci del suo -- lo na -- tal!
+Del Gior -- da -- no le ri -- ve sa -- lu ta,
+Di Si -- on -- ne le tor -- ri at -- ter -- ra -- te________O
+mia pa -- tria si bel -- la_e per -- du -- ta!
+O mem -- bran za -- si ca -- ra_e fa -- tal!
+Ar -- pa d'or dei fa -- ti -- di -- _ -- ci va _ _ _ ti.
+Per -- che mu -- ta dal sa -- li -- ce pen -- di?
+Le me -- mo -- rie nel pet -- to _ rac -- cen -- _ _ _ -- di.
+Ci fa -- vel -- la del tem -- po che fu!
+O si -- mi -- le di So -- li -- ma_ai fa -- ti
+Trag -- gi_un suo -- non di cru -- do la -- men -- to.
+O  ri -- spi --ri_il Si -- gno -- re con -- cen -- to
+Che ne_in -- fon -- da_al pa -- to -- re vir -- tu.
+Che ne_in -- fon -- da_al pa -- ti -- re vir -- tu
+Che ne_in -- fon -- da_al pa -- ti -- re vir -- tu
+al pa -- ti -- re -- vir -- tu!
+
+}
+
+texte_alto = \lyricmode{
+Va, pen -- sie -- ro sul -- l'a -- li do -- ra -- te;
+Va, ti po -- sa sui cli_ -- vi sui col -- li.
+O -- ve_o -- lez -- za -- no te -- pi de_e mol -- li
+L'au -- re dol -- ci del suo -- lo na -- tal!
+Del Gior -- da -- no le ri -- ve sa -- lu ta,
+Di Si -- on -- ne le tor -- ri at -- ter -- ra -- te________O
+mia pa -- tria si bel -- la_e per -- du -- ta!
+O mem -- bran za -- si ca -- ra_e fa -- tal!
+Ar -- pa d'or dei fa -- ti -- di -- ci va _ _ _ ti.
+Per -- che mu -- ta dal sa -- li -- ce pen -- di?
+Le me -- mo -- rie nel pet -- to  rac -- cen -- _ _ _ -- di.
+Ci fa -- vel -- la del tem -- po che fu!
+O si -- mi -- le di So -- li -- ma_ai fa -- ti
+Trag -- gi_un suo -- non di cru -- do la -- men -- to.
+O  ri -- spi --ri_il Si -- gno -- re con -- cen -- to
+Che ne_in -- fon -- da_al pa -- to -- re vir -- tu.
+Che ne_in -- fon -- da_al pa -- ti -- re vir -- tu
+Che ne_in -- fon -- da_al pa -- ti -- re vir -- tu
+al pa -- ti -- re -- vir -- tu!
+}
+
+texte_bass = \lyricmode{
+Va, pen -- sie -- ro sul -- l'a -- li do -- ra -- te;
+Va, ti po -- sa sui cli_ -- vi sui col -- li.
+O -- ve_o -- lez -- za -- no te -- pi de_e mol -- li
+L'au -- re dol -- ci del suo -- lo na -- tal!
+Del Gior -- da -- no le ri -- ve sa -- lu ta,
+Di Si -- on -- ne le tor -- ri at -- ter -- ra -- te________O
+mia pa -- tria si bel -- la_e per -- du -- ta!
+O mem -- bran za -- si ca -- ra_e fa -- tal!
+Ar -- pa d'or dei fa -- ti -- di -- ci va -- ti.
+Per -- che mu -- ta dal sa -- li -- ce pen -- di?
+Le me -- mo -- rie nel pet -- to  rac -- cen -- di.
+Ci fa -- vel -- la del tem -- po che fu!
+O si -- mi -- le di So -- li -- ma_ai fa -- ti
+Trag -- gi_un suo -- non di cru -- do la -- men -- to.
+O  ri -- spi --ri_il Si -- gno -- re con -- cen -- to
+Che ne_in -- fon -- da_al pa -- to -- re vir -- tu.
+Che ne_in -- fon -- da_al pa -- ti -- re vir -- tu
+Che ne_in -- fon -- da_al pa -- ti -- re vir -- tu
+al pa -- ti -- re -- vir -- tu!
+}
+
+\score {
+
+<<
+
+#ifdef DRUM
+   \new DrumStaff<< \drum
+     \set Staff.midiMinimumVolume = #0.4
+     \set Staff.midiMaximumVolume = #0.4
+>>
+#endif
+#ifdef SOPRANO
+  \context Staff = sopvoice
+   <<
+                 \set Staff.midiInstrument = "acoustic grand"
+            \set Score.skipBars = ##t
+            \set Staff.printKeyCancellation = ##f
+            \new Voice \global
+
+     \context Voice = Soprano   {\soprano }
+     \addlyrics{\texte}
+   >>
+#endif
+#ifdef ALTO
+      \context Staff = altovoice
+   <<
+                 \set Staff.midiInstrument = "acoustic grand"
+            \set Score.skipBars = ##t
+            \set Staff.printKeyCancellation = ##f
+            \new Voice \global
+
+    
+      \context Voice = Alto   {\alto }
+      \addlyrics{\texte_alto}
+   >>
+#endif
+#ifdef TENOR
+   \context Staff = tenorvoice
+   <<
+                 \set Staff.midiInstrument = "acoustic grand"
+            \set Score.skipBars = ##t
+            \set Staff.printKeyCancellation = ##f
+            \new Voice \global
+
+      \context Voice = Tenor   {\tenor }
+      \addlyrics{\texte}
+   >>
+#endif
+#ifdef BASS
+      \context Staff = bassvoice
+   <<
+                 \set Staff.midiInstrument = "acoustic grand"
+            \set Score.skipBars = ##t
+            \set Staff.printKeyCancellation = ##f
+            \new Voice \global
+
+     %\set Staff.midiInstrument = #"piccolo" 
+      \context Voice = Bass   {\bass }
+      \addlyrics{\texte_bass}
+   >>
+#endif
+  >>
+  
+ \layout { }  
+  \midi {
+    \tempo 4=57
+  }
+  
+}
