@@ -11,12 +11,15 @@ Indications:
 Prononciation: Italien moderne.
 
 Pour se mettre dans l'ambiance: La difficulté dans ce choeur réside dans le tempo, il ne faut notamment pas cofondre triolets et croche pointée double. Riccardo Muti le dit bien mieux:
+
 <center>
 [![Video](https://img.youtube.com/vi/tPANwyaSlX4/0.jpg)](https://www.youtube.com/watch?v=tPANwyaSlX4 "Va pensiero")
 </center>
 
 
+
 Date limite pour m'envoyer les fichiers: <b>Samedi 20 Mars 2021</b>.
+
  
 Partition: [Va_pensiero_partition_Verdi.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210320_va_pensiero/Va_pensiero_partition_Verdi.pdf)
 
