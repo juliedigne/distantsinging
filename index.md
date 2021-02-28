@@ -19,6 +19,36 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 - Es ist ein Ros' entsprungen (Praetorius)
 
 
+## Travail en cours: Va pensiero (1842 - Giuseppe Verdi)
+
+En savoir plus sur ce célèbre choeur sur la page [wikipedia](https://fr.wikipedia.org/wiki/Va,_pensiero). 
+
+Tempo: noire = 57 (largo).
+
+Indications:
+- Il y a 2 mesures de métronome avant l'entrée du choeur, donc 8 battements (battue à la noire). Frapper dans ses mains ou sur la table sur le 5ème battement, cela aide pour la synchronisation.
+- Modification par rapport à la partition originale: pour éviter les dédoublements de pupitre des sopranes et ténors, comme nous ne sommes pas très nombreux, les soprani chantent toujours la ligne soprano 1, dans la partition originale et les ténors toujours la ligne ténor 2. La partition ci-dessous comporte déjà ces changements.
+
+Prononciation: Italien moderne.
+
+Pour se mettre dans l'ambiance: La difficulté dans ce choeur réside dans le tempo, il ne faut notamment pas cofondre triolets et croche pointée double. Riccardo Muti le dit bien mieux:
+<center>
+[![Video](https://img.youtube.com/vi/tPANwyaSlX4/0.jpg)](https://www.youtube.com/watch?v=tPANwyaSlX4)
+</center>
+
+
+Date limite pour m'envoyer les fichiers: <b>Samedi 20 Mars 2021</b>.
+ 
+Partition: [Va_pensiero_partition_Verdi.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210320_va_pensiero/Va_pensiero_partition_Verdi.pdf)
+
+<!--<b>*Résultat:*</b> [Belle_resultat.mp3](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20201128_belle_qui_tiens/belle_qui_tiens_ma_vie_arcama_confine.mp3)-->
+<br/><br/>
+Fichiers de travail (mp3):<br/>
+[va_pensiero_soprano.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/va_pensiero_soprano.mp3)  
+[va_pensiero_alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/va_pensiero_alto.mp3)  
+[va_pensiero_tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/va_pensiero_tenor.mp3)  
+[va_pensiero_bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/va_pensiero_bass.mp3)  
+<br/>
 ## Travail en cours: Canticorum Jubilo (1747 - George Frideric Handel)
 
 En savoir plus sur George Frideric Handel sur la page [wikipedia](https://fr.wikipedia.org/wiki/Georg_Friedrich_Haendel). 
