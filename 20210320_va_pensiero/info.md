@@ -12,7 +12,7 @@ Prononciation: Italien moderne.
 
 Pour se mettre dans l'ambiance: La difficulté dans ce choeur réside dans le tempo, il ne faut notamment pas cofondre triolets et croche pointée double. Riccardo Muti le dit bien mieux:
 <center>
-[![Video](https://img.youtube.com/vi/tPANwyaSlX4/0.jpg)](https://www.youtube.com/watch?v=tPANwyaSlX4)
+[![Video](https://img.youtube.com/vi/tPANwyaSlX4/0.jpg)](https://www.youtube.com/watch?v=tPANwyaSlX4 "Va pensiero")
 </center>
 
 

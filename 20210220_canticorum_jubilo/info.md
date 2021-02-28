@@ -1,4 +1,4 @@
-## Travail en cours: Canticorum Jubilo (1747 - George Frideric Handel)
+## Canticorum Jubilo (1747 - George Frideric Handel)
 
 En savoir plus sur George Frideric Handel sur la page [wikipedia](https://fr.wikipedia.org/wiki/Georg_Friedrich_Haendel). 
 
