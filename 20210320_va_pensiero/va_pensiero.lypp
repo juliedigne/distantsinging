@@ -7,7 +7,7 @@ global = {
 
 drum = \drummode {
   \global
-    \repeat unfold 38{ hiwoodblock4 lowoodblock4 lowoodblock4 lowoodblock4}
+    \repeat unfold 41{ hiwoodblock4 lowoodblock4 lowoodblock4 lowoodblock4}
   
 }
 
