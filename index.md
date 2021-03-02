@@ -26,7 +26,7 @@ En savoir plus sur ce célèbre choeur sur la page [wikipedia](https://fr.wikipe
 Tempo: noire = 57 (largo).
 
 Indications:
-- Il y a 2 mesures de métronome avant l'entrée du choeur, donc 8 battements (battue à la noire). Frapper dans ses mains ou sur la table sur le 5ème battement, cela aide pour la synchronisation.
+- Il y a 2 mesures de métronome avant la mesure d'entrée du choeur (qui rentre donc au 3ème temps de la 3ème mesure), vous entendrez donc 12 battements (battue à la noire), le choeur rentrant sur le 12ème battement. Frapper dans ses mains ou sur la table sur le 5ème battement, cela aide pour la synchronisation.
 - Modification par rapport à la partition originale: pour éviter les dédoublements de pupitre des sopranes et ténors, comme nous ne sommes pas très nombreux, les soprani chantent toujours la ligne soprano 1, dans la partition originale et les ténors toujours la ligne ténor 2. La partition ci-dessous comporte déjà ces changements.
 
 Prononciation: Italien moderne.
@@ -118,7 +118,7 @@ Date limite pour m'envoyer les fichiers: <b>Samedi 25 Janvier 2021</b>.
  
 Partition: [il_me_semble_partition.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210125_il_me_semble/il_me_semble_partition.pdf)
 
-<!--<b>*Résultat:*</b> [Belle_resultat.mp3](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20201128_belle_qui_tiens/belle_qui_tiens_ma_vie_arcama_confine.mp3)-->
+<b>*Résultat:*</b> [il_me_semble_resultat.mp3](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210125_il_me_semble/il_me_semble_arcama_confine.mp3)
 <br/><br/>
 Fichiers de travail (mp3):<br/>
 [il_me_semble_soprano.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/il_me_semble_soprano.mp3)  
