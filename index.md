@@ -47,6 +47,7 @@ Fichiers de travail (mp3):<br/>
 [va_pensiero_alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/va_pensiero_alto.mp3)  
 [va_pensiero_tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/va_pensiero_tenor.mp3)  
 [va_pensiero_bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/va_pensiero_bass.mp3)  
+[*tutti.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*tutti.mp3)  
 <br/>
 ## Canticorum Jubilo (1747 - George Frideric Handel)
 
@@ -78,6 +79,7 @@ Fichiers de travail (mp3):<br/>
 [canticorum_alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/canticorum_alto.mp3)  
 [canticorum_tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/canticorum_tenor.mp3)  
 [canticorum_bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/canticorum_bass.mp3)  
+[*tutti.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*tutti.mp3)  
 <br/>
 ## Il me semble que la journée (1550 - Claude Goudimel)
 
@@ -125,6 +127,7 @@ Fichiers de travail (mp3):<br/>
 [il_me_semble_alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/il_me_semble_alto.mp3)  
 [il_me_semble_tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/il_me_semble_tenor.mp3)  
 [il_me_semble_bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/il_me_semble_bass.mp3)  
+[*tutti.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*tutti.mp3)  
 <br/>
 ## Chant surprise de Noël
 
@@ -161,6 +164,7 @@ Fichiers de travail (mp3):<br/>
 [if_love_alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/if_love_alto.mp3)  
 [if_love_tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/if_love_tenor.mp3)  
 [if_love_bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/if_love_bass.mp3)  
+[*tutti.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*tutti.mp3)  
 <br/>
 ## Belle qui tiens ma vie (1589 - Jean Tabourot)
 
@@ -206,6 +210,7 @@ Fichiers de travail (mp3):<br/>
 [belle_qui_tiens_alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/belle_qui_tiens_alto.mp3)  
 [belle_qui_tiens_tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/belle_qui_tiens_tenor.mp3)  
 [belle_qui_tiens_bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/belle_qui_tiens_bass.mp3)  
+[*tutti.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*tutti.mp3)  
 <br/>
 ## Ave Verum Corpus (Mozart - 1791)
 
@@ -226,4 +231,5 @@ Fichiers de travail (mp3):<br/>
 [ave_verum_alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/ave_verum_alto.mp3)  
 [ave_verum_tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/ave_verum_tenor.mp3)  
 [ave_verum_bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/ave_verum_bass.mp3)  
+[*tutti.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/*tutti.mp3)  
 <br/>
