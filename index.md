@@ -15,7 +15,6 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 
 *Toute suggestion est la bienvenue.*
 - Il Carnavale di Venezia (Rossini)
-- Va pensiero (Verdi)
 - Es ist ein Ros' entsprungen (Praetorius)
 
 
