@@ -11,9 +11,9 @@ Indications:
 
 Prononciation: Français moderne.
 
-Pour se mettre dans l'ambiance: Une interprétation marrante:
+<!--Pour se mettre dans l'ambiance: Une interprétation marrante:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNmyYgkG2z8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNmyYgkG2z8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 
 Date limite pour m'envoyer les fichiers: <b>Samedi 17 Avril 2021</b>.
