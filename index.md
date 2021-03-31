@@ -18,7 +18,30 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 - Es ist ein Ros' entsprungen (Praetorius)
 
 
-## Travail en cours: Va pensiero (1842 - Giuseppe Verdi)
+## Travail en cours: Forêts paisibles (1736 - Jean-Philippe Rameau)
+
+Choeur extrait de la Quatrième Entrée "Les Sauvages" dans les *Indes Galantes*. En savoir plus sur *Les Indes Galantes* sur la page [wikipedia](https://fr.wikipedia.org/wiki/Les_Indes_galantes). 
+
+Tempo: blanche = 70.
+
+Indications:
+- Il y a 1 mesure de métronome avant la mesure d'entrée des soprani (qui rentrent au milieu du premier temps de la 2ème mesure, soit un peu après le 3ème battement), vous entendrez donc 3 battements (battue à la blanche). Frapper dans ses mains ou sur la table sur le 3ème battement, cela aide pour la synchronisation.
+- Modification par rapport à la partition originale: normalement il s'agit d'une pièce pour duo et choeur, pour que ce soit plus intéressant pour tout le monde les alti et les basses chantent les parties de duo avec les soprani et les ténors (à une octave près). La partition est également baissée d'un ton par rapport à l'original.
+
+
+Prononciation: Français moderne.
+
+Pour se mettre dans l'ambiance: Une interprétation marrante:
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=wNmyYgkG2z8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Date limite pour m'envoyer les fichiers: <b>Samedi 17 Avril 2021</b>.
+
+ 
+Partition: [forets_paisibles_partition.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210417_forets_paisibles/forets_paisibles_partition.pdf)
+
+<!--<b>*Résultat:*</b> [Va_pensiero_resultat.mp3](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210320_va_pensiero/va_pensiero_arcama_confine.mp3)-->
+## Va pensiero (1842 - Giuseppe Verdi)
 
 En savoir plus sur ce célèbre choeur sur la page [wikipedia](https://fr.wikipedia.org/wiki/Va,_pensiero). 
 
