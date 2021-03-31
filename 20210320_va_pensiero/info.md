@@ -1,4 +1,4 @@
-## Travail en cours: Va pensiero (1842 - Giuseppe Verdi)
+## Va pensiero (1842 - Giuseppe Verdi)
 
 En savoir plus sur ce célèbre choeur sur la page [wikipedia](https://fr.wikipedia.org/wiki/Va,_pensiero). 
 
