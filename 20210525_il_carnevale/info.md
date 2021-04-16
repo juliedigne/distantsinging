@@ -11,6 +11,8 @@ Indications:
 
 - C'est de loin la pièce la plus difficile (mais aussi la plus amusante) qu'on ait travaillée, l'important est de se faire plaisir, vous pouvez n'enregistrer qu'une partie par exemple le début, et sauter un passage difficile. Il y a beaucoup de passage unisson tenor-basse et soprano-alto.
 
+- Soprani: n'hésitez pas à faire un la aigu à la fin si vous le sentez, ça fait une fin plus brillante.
+
 
 Prononciation: Italien moderne (Prononciation expliquée [ici](http://www.accentus.fr/espace-participant/autour-de-rossini/atelier-1/) )
 
