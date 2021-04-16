@@ -14,8 +14,8 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 ## Liste de suggestions à débattre pour les futures pièces
 
 *Toute suggestion est la bienvenue.*
-- Il Carnavale di Venezia (Rossini)
 - Es ist ein Ros' entsprungen (Praetorius)
+- Libiamo ne' lieti calici  (Verdi)
 
 
 ## Travail en cours: Il Carnevale di Venezia (1821 - Gioacchino Rossini)
