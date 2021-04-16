@@ -18,6 +18,41 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 - Es ist ein Ros' entsprungen (Praetorius)
 
 
+## Travail en cours: Il Carnevale di Venezia (1821 - Gioacchino Rossini)
+
+
+Choeur profane de Rossini. En savoir plus sur *Gioacchino Rossini* sur la page [wikipedia](https://fr.wikipedia.org/wiki/Gioachino_Rossini). 
+
+Tempo: début croche = 200 (quelques changements de tempo, bien suivre le piano).
+
+Indications: 
+
+- il y a 2 battements avant l'entrée du choeur (qui rentre donc sur le troisième battement), si possible taper dans ses mains sur le 2ème battement.
+
+- C'est de loin la pièce la plus difficile (mais aussi la plus amusante) qu'on ait travaillée, l'important est de se faire plaisir, vous pouvez n'enregistrer qu'une partie par exemple le début, et sauter un passage difficile. Il y a beaucoup de passage unisson tenor-basse et soprano-alto.
+
+- Soprani: n'hésitez pas à faire un la aigu à la fin si vous le sentez, ça fait une fin plus brillante.
+
+
+Prononciation: Italien moderne (Prononciation expliquée [ici](http://www.accentus.fr/espace-participant/autour-de-rossini/atelier-1/) )
+
+
+Date limite pour m'envoyer les fichiers: <b>Mardi 25 Mai 2021</b>.
+
+ 
+Partition choeur seul: [il_carnevale_partition.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210525_il_carnevale/il_carnevale_partition_avec_piano.pdf)
+
+Partition choeur avec piano: [il_carnevale_partition_avec_piano.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210525_il_carnevale/il_carnevale_partition.pdf)
+
+<!--<b>*Résultat:*</b> [Va_pensiero_resultat.mp3](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210320_va_pensiero/va_pensiero_arcama_confine.mp3)-->
+<br/><br/>
+Fichiers de travail (mp3):<br/>
+[il_carnevale_soprano.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/il_carnevale_soprano.mp3)  
+[il_carnevale_alto.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/il_carnevale_alto.mp3)  
+[il_carnevale_tenor.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/il_carnevale_tenor.mp3)  
+[il_carnevale_bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/il_carnevale_bass.mp3)  
+[il_carnevale_tutti.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/il_carnevale_tutti.mp3)  
+<br/>
 ## Travail en cours: Forêts paisibles (1736 - Jean-Philippe Rameau)
 
 Choeur extrait de la Quatrième Entrée "Les Sauvages" dans les *Indes Galantes*. En savoir plus sur *Les Indes Galantes* sur la page [wikipedia](https://fr.wikipedia.org/wiki/Les_Indes_galantes). 
