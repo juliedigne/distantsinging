@@ -467,7 +467,7 @@ bass = {
     g4 g8  g4 g8 
     c4 c8  a4 b8 |
     c4 d8 e4 f8 |
-    d4 e8 b4 d8 |
+    dis4 e8 b4 d8 |
     c8[ b8] a8 e8[ fis8] gis8 |
     a4 r8 r4 r8
     r4 r8 e4 e8 \bar "||"
