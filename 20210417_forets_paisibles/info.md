@@ -1,4 +1,4 @@
-## Travail en cours: Forêts paisibles (1736 - Jean-Philippe Rameau)
+## Forêts paisibles (1736 - Jean-Philippe Rameau)
 
 Choeur extrait de la Quatrième Entrée "Les Sauvages" dans les *Indes Galantes*. En savoir plus sur *Les Indes Galantes* sur la page [wikipedia](https://fr.wikipedia.org/wiki/Les_Indes_galantes). 
 
