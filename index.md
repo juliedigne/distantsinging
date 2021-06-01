@@ -53,7 +53,7 @@ Fichiers de travail (mp3):<br/>
 [il_carnevale_bass.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/il_carnevale_bass.mp3)  
 [il_carnevale_tutti.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/il_carnevale_tutti.mp3)  
 <br/>
-## Travail en cours: Forêts paisibles (1736 - Jean-Philippe Rameau)
+## Forêts paisibles (1736 - Jean-Philippe Rameau)
 
 Choeur extrait de la Quatrième Entrée "Les Sauvages" dans les *Indes Galantes*. En savoir plus sur *Les Indes Galantes* sur la page [wikipedia](https://fr.wikipedia.org/wiki/Les_Indes_galantes). 
 
