@@ -18,4 +18,4 @@ Date limite pour m'envoyer les fichiers: <b>Samedi 17 Avril 2021</b>.
  
 Partition: [forets_paisibles_partition.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210417_forets_paisibles/forets_paisibles_partition.pdf)
 
-<!--<b>*Résultat:*</b> [Va_pensiero_resultat.mp3](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210320_va_pensiero/va_pensiero_arcama_confine.mp3)-->
+<b>*Résultat:*</b> [forets_paisibles_resultat.mp3](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210417_forets_paisibles/forets_paisibles_arcama_confine.mp3)
