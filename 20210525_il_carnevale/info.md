@@ -1,4 +1,4 @@
-## Travail en cours: Il Carnevale di Venezia (1821 - Gioacchino Rossini)
+## Il Carnevale di Venezia (1821 - Gioacchino Rossini)
 
 
 Choeur profane de Rossini. En savoir plus sur *Gioacchino Rossini* sur la page [wikipedia](https://fr.wikipedia.org/wiki/Gioachino_Rossini). 
