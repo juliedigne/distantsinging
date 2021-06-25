@@ -24,4 +24,4 @@ Partition choeur seul: [il_carnevale_partition.pdf](https://raw.githubuserconten
 
 Partition choeur avec piano: [il_carnevale_partition_avec_piano.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210525_il_carnevale/il_carnevale_partition.pdf)
 
-<!--<b>*Résultat:*</b> [Va_pensiero_resultat.mp3](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210320_va_pensiero/va_pensiero_arcama_confine.mp3)-->
+<b>*Résultat:*</b> [il_carnevale_resultat.mp3](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210525_il_carnevale/il_carnevale_arcama_confine.mp3)
