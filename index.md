@@ -1,9 +1,11 @@
 * TOC
 {:toc}
 
+<b>Ce projet est maintenant terminé, espérons qu'il n'y ait pas à le réactiver et que nous puissions chanter vraiment ensemble!</b>
+
 ## Courte Description
 
-Pendant le reconfinement, voici un petit projet de chant à distance sur des oeuvres courtes de l'ensemble vocal [Arcama](http://evarcama.fr/).
+Pendant les reconfinements et l'impossibilité de répéter ensemble de 2020-2021, voici un petit projet de chant à distance sur des oeuvres courtes de l'ensemble vocal [Arcama](http://evarcama.fr/).
 
 ## Mode d'emploi
 
@@ -18,7 +20,7 @@ Point clé: _Attention à bien tenir le tempo_ (écouter les fichiers mp3 d'aide
 - Libiamo ne' lieti calici  (Verdi)
 
 
-## Travail en cours: Il Carnevale di Venezia (1821 - Gioacchino Rossini)
+## Il Carnevale di Venezia (1821 - Gioacchino Rossini)
 
 
 Choeur profane de Rossini. En savoir plus sur *Gioacchino Rossini* sur la page [wikipedia](https://fr.wikipedia.org/wiki/Gioachino_Rossini). 
@@ -44,7 +46,7 @@ Partition choeur seul: [il_carnevale_partition.pdf](https://raw.githubuserconten
 
 Partition choeur avec piano: [il_carnevale_partition_avec_piano.pdf](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210525_il_carnevale/il_carnevale_partition.pdf)
 
-<!--<b>*Résultat:*</b> [Va_pensiero_resultat.mp3](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210320_va_pensiero/va_pensiero_arcama_confine.mp3)-->
+<b>*Résultat:*</b> [il_carnevale_resultat.mp3](https://raw.githubusercontent.com/juliedigne/distantsinging/main/20210525_il_carnevale/il_carnevale_arcama_confine.mp3)
 <br/><br/>
 Fichiers de travail (mp3):<br/>
 [il_carnevale_soprano.mp3](https://github.com/juliedigne/distantsinging/releases/download/main/il_carnevale_soprano.mp3)  
